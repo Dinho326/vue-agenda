@@ -1,4 +1,4 @@
-# vue-api-agenda
+# vue-agenda
 
 > Projeto para aprendizado do Vue.js
 
